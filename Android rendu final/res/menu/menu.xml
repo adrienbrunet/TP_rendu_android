@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/categorie1"
+        android:title="catégorie 1">
+    </item>
+    <item
+        android:id="@+id/categorie2"
+        android:title="catégorie 2">
+    </item>
+    <item
+        android:id="@+id/categorie3"
+        android:title="catégorie 3">
+    </item>
+    <item
+        android:id="@+id/categorie4"
+        android:title="catégorie 4">
+    </item>
+
+</menu>
